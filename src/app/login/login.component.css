@@ -1,9 +1,16 @@
+.backrground {
+    background: #b9480e;
+    height: 100vh;
+}
+
 .logo {
     background: #a8400d;
     text-align: center;
     padding: 15px;
     color: #FFF;
     font-weight: 500;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
 }
 
 .logo p {
